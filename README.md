@@ -2,6 +2,13 @@
 
 [![Linkedin Badge](https://shields.io/badge/LinkerdIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/willian-takanage-21461b40/)](https://www.linkedin.com/in/willian-takanage-21461b40/)
 
+
+# My name Willian and ....:
+
+- 👨‍🎓 I am a student of systems analysis and development.
+- 💻 I work as a deployment and support analyst.
+- 📚 Currently studying Flutter and Java
+
 <!--
 **takanage/takanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
