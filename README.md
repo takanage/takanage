@@ -1,6 +1,6 @@
 ### WIllian Takanage 👨‍💻
 
-[!{Linkedin Badge](https://shields.io/badge/LinkerdIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/willian-takanage-21461b40/)](https://www.linkedin.com/in/willian-takanage-21461b40/)
+[![Linkedin Badge](https://shields.io/badge/LinkerdIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/willian-takanage-21461b40/)](https://www.linkedin.com/in/willian-takanage-21461b40/)
 
 <!--
 **takanage/takanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
