@@ -9,7 +9,7 @@
 - 💻 I work as a deployment and support analyst.
 - 📚 Currently studying Flutter and Java
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takanage&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takanage&show_icons=true&theme=dracula)
 
 
 
